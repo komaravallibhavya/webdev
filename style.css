@@ -1,0 +1,22 @@
+body{
+    font-size: 22px;
+}
+h1,h2{
+    color:brown;
+}
+p{
+    font-size: 64px;
+    color: rgb(128, 0, 77);
+
+}
+.gray{
+    color:gray;
+}
+p span{
+    text-transform: lowercase;
+    background-color: gold;
+
+}
+#second{
+    font-size:italic;
+}
